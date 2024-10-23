@@ -1,0 +1,7 @@
+C:\@repos\CSharp\challage-basic\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\@repos\CSharp\challage-basic\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\@repos\CSharp\challage-basic\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\@repos\CSharp\challage-basic\ConsoleApp1\obj\Debug\Challage1.csproj.AssemblyReference.cache
+C:\@repos\CSharp\challage-basic\ConsoleApp1\obj\Debug\Challage1.csproj.CoreCompileInputs.cache
+C:\@repos\CSharp\challage-basic\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\@repos\CSharp\challage-basic\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

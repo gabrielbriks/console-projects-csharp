@@ -1,0 +1,7 @@
+C:\@repos\CSharp\challage-basic\Challenge6\bin\Debug\Challenge6.exe.config
+C:\@repos\CSharp\challage-basic\Challenge6\bin\Debug\Challenge6.exe
+C:\@repos\CSharp\challage-basic\Challenge6\bin\Debug\Challenge6.pdb
+C:\@repos\CSharp\challage-basic\Challenge6\obj\Debug\Challenge6.csproj.AssemblyReference.cache
+C:\@repos\CSharp\challage-basic\Challenge6\obj\Debug\Challenge6.csproj.CoreCompileInputs.cache
+C:\@repos\CSharp\challage-basic\Challenge6\obj\Debug\Challenge6.exe
+C:\@repos\CSharp\challage-basic\Challenge6\obj\Debug\Challenge6.pdb

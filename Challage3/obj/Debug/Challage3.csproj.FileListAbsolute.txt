@@ -1,0 +1,7 @@
+C:\@repos\CSharp\challage-basic\Challage3\obj\Debug\Challage3.csproj.AssemblyReference.cache
+C:\@repos\CSharp\challage-basic\Challage3\obj\Debug\Challage3.csproj.CoreCompileInputs.cache
+C:\@repos\CSharp\challage-basic\Challage3\bin\Debug\Challage3.exe.config
+C:\@repos\CSharp\challage-basic\Challage3\bin\Debug\Challage3.exe
+C:\@repos\CSharp\challage-basic\Challage3\bin\Debug\Challage3.pdb
+C:\@repos\CSharp\challage-basic\Challage3\obj\Debug\Challage3.exe
+C:\@repos\CSharp\challage-basic\Challage3\obj\Debug\Challage3.pdb

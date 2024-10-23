@@ -1,0 +1,7 @@
+C:\@repos\CSharp\challage-basic\Challange5\bin\Debug\Challange5.exe.config
+C:\@repos\CSharp\challage-basic\Challange5\bin\Debug\Challange5.exe
+C:\@repos\CSharp\challage-basic\Challange5\bin\Debug\Challange5.pdb
+C:\@repos\CSharp\challage-basic\Challange5\obj\Debug\Challange5.csproj.AssemblyReference.cache
+C:\@repos\CSharp\challage-basic\Challange5\obj\Debug\Challange5.csproj.CoreCompileInputs.cache
+C:\@repos\CSharp\challage-basic\Challange5\obj\Debug\Challange5.exe
+C:\@repos\CSharp\challage-basic\Challange5\obj\Debug\Challange5.pdb
